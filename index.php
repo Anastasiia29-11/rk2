@@ -15,9 +15,6 @@ echo "<tr>
 echo "</table>";
 ?>
 <h2> Задание 2 </h2>
-<html>
-<head> <meta charset="utf-8"> </head>
-<body>
 <form methods="post">
 Длина: <input type="text"  name="dl" value="0">
 Ширина: <input type="text" name="sh" value="0">
